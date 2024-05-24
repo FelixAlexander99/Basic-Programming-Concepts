@@ -1,0 +1,10 @@
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\bin\Debug\netcoreapp1.1\InputValidation.deps.json
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\bin\Debug\netcoreapp1.1\InputValidation.runtimeconfig.json
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\bin\Debug\netcoreapp1.1\InputValidation.runtimeconfig.dev.json
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\bin\Debug\netcoreapp1.1\InputValidation.dll
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\bin\Debug\netcoreapp1.1\InputValidation.pdb
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\obj\Debug\netcoreapp1.1\InputValidation.csprojResolveAssemblyReference.cache
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\obj\Debug\netcoreapp1.1\InputValidation.csproj.CoreCompileInputs.cache
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\obj\Debug\netcoreapp1.1\InputValidation.AssemblyInfo.cs
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\obj\Debug\netcoreapp1.1\InputValidation.dll
+C:\Users\VANistor\Desktop\InputValidation\InputValidation\obj\Debug\netcoreapp1.1\InputValidation.pdb

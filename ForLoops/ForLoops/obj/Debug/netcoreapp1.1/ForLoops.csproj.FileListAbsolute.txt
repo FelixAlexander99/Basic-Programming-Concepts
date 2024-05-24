@@ -1,0 +1,10 @@
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\bin\Debug\netcoreapp1.1\ForLoops.deps.json
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\bin\Debug\netcoreapp1.1\ForLoops.runtimeconfig.json
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\bin\Debug\netcoreapp1.1\ForLoops.runtimeconfig.dev.json
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\bin\Debug\netcoreapp1.1\ForLoops.dll
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\bin\Debug\netcoreapp1.1\ForLoops.pdb
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\obj\Debug\netcoreapp1.1\ForLoops.csprojResolveAssemblyReference.cache
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\obj\Debug\netcoreapp1.1\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\obj\Debug\netcoreapp1.1\ForLoops.AssemblyInfo.cs
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\obj\Debug\netcoreapp1.1\ForLoops.dll
+C:\Users\VANistor\Desktop\ForLoops\ForLoops\obj\Debug\netcoreapp1.1\ForLoops.pdb
